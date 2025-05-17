@@ -1,0 +1,9 @@
+# Obsidian-specific
+.obsidian/
+*.canvas
+*.excalidraw.md
+workspace.json
+cache/
+workspace/
+workspace-mobile.json
+Study analytics MOC.md
