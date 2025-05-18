@@ -9,9 +9,12 @@
 
 ## 🧱 Foundations of Business Analysis
 - [What is Business Analysis](Foundations/What%20is%20Business%20Analysis.md)
-- [BA Tasks and Workflow](Foundations/BA%20Tasks%20and%20Workflow.md)
-- [BA Problem Areas](Foundations/BA%20Problem%20Areas.md)
 - [BA Career Paths Progression](Foundations/BA%20Career%20Paths%20Progression.md)
+- [BA Problem Areas](Foundations/BA%20Problem%20Areas.md)
+- [Business Process Efficiency and Improvement](Foundations/Business%20Process%20Efficiency%20and%20Improvement.md)
+- [Understanding the Organization](Foundations/Understanding%20the%20Organization.md)
+
+
 - [BA vs PM vs PO](BA%20vs%20PM%20vs%20PO)
 - [Types of Requirements](Types%20of%20Requirements)
 - [Stakeholders in BA](Stakeholders%20in%20BA)
@@ -19,6 +22,8 @@
 ---
 
 ## 🛠️ Key BA Activities (Core Knowledge Areas)
+- [BA Tasks and Workflow](Activities/BA%20Tasks%20and%20Workflow.md)
+- [Strategic Analysis](Activities/Strategic%20Analysis.md)
 - [Needs & Problem Definition](Needs%20&%20Problem%20Definition)
 - [Elicitation & Discovery](Elicitation%20&%20Discovery)
 - [Requirements Analysis](Requirements%20Analysis)
@@ -60,15 +65,6 @@
 - [BPMN Diagrams](BPMN%20Diagrams)
 - [UML Diagrams](UML%20Diagrams)
 - [Flowcharts](Flowcharts)
-
----
-
-## 🧰 Business Analysis Toolbox
-- [BA 1 Approaches](BA%201%20Approaches.md)
-	- [BA 2 Methodologies](BA%202%20Methodologies.md)
-		- [BA 3 Methods](BA%203%20Methods.md)
-			- [BA 4 Techniques](BA%204%20Techniques.md)
-				- [BA 5 Tools](BA%205%20Tools.md)
 
 ---
 

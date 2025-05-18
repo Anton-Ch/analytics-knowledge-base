@@ -1,14 +1,14 @@
-[↑ Up]([Business Analytics MOC](Business%20Analytics%20MOC.md))  
-[→ Related]([BA 1 Approaches](BA%201%20Approaches.md))  
-[→ Related]([BA 2 Methodologies](BA%202%20Methodologies.md))  
-[→ Related]([BA 3 Methods](BA%203%20Methods.md))  
-[→ Related]([BA 4 Techniques](BA%204%20Techniques.md))
+[↑ Up]([Analytics MOC](../../Analytics%20MOC.md))  
+[→ Related]([1 Approaches MOC](../1%20Approaches/1%20Approaches%20MOC.md))  
+[→ Related]([2 Methodologies MOC](../2%20Methodologies/2%20Methodologies%20MOC.md))  
+[→ Related]([3 Methods MOC](../3%20Methods/3%20Methods%20MOC.md))  
+[→ Related]([4 Techniques MOC](../4%20Techniques/4%20Techniques%20MOC.md))
 
-# [BA 5 Tools](.md)
+# [5 Tools MOC](.md)
 
-# 🛠️ BA Software Tools & Their Role in the Project Lifecycle
+# 🛠️ Analytics Software Tools & Their Role in the Project Lifecycle
 
-> *An overview of essential software tools used by Business Analysts across various project phases.*
+> *An overview of essential software tools used by Analysts across various project phases.*
 
 ---
 
@@ -35,7 +35,7 @@ These tools are **critical across all stages** of the project lifecycle — from
 
 ### 📄 Tools:
 - **Microsoft Word** — drafting project charters, scope docs, stakeholder lists  
-- **Microsoft Excel** — [](../Analytics%20Abbreviations%20and%20Terms.md#RACI%20|%20RACI) matrices, stakeholder maps, initial requirement lists
+- **Microsoft Excel** — [](../../Analytics%20Abbreviations%20and%20Terms.md#RACI%20|%20RACI) matrices, stakeholder maps, initial requirement lists
 
 ### 🧠 Key Uses:
 - Define scope and stakeholders
@@ -103,3 +103,5 @@ These tools are **critical across all stages** of the project lifecycle — from
 | Communication | Outlook, Gmail |
 | Collaboration | Miro, Teams, Slack |
 | Requirements | Jira, Confluence
+
+
