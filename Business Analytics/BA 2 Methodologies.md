@@ -6,4 +6,11 @@
 
 # [BA 2 Methodologies](.md)
 
+**Kaizen** - Business Process Improvement methodology focuses on continuous improvement through small, incremental changes
+
+**Lean** - methodology used for elimination of waste in processes.
+
+**Six Sigma** - Business Improvement methodology used to *minimize* the company’s product *defects* and process *variations*
+
+**Business Process Management** - the primary goal of the methodology Identifying bottlenecks, automating manual work, and improving process inefficiencies.
 

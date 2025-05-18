@@ -1,6 +1,6 @@
 [↑ Up](README.md)
 
-# [README](README.md)
+# (README.md)
 
 # 📚 Analytics Knowledge Base
 
@@ -15,11 +15,11 @@ This repository serves multiple purposes:
 
 1. 🧠 **Personal Knowledge Base** —  
    Designed first and foremost as a tool for myself, to:
-	a. gather 
-	b. retain
-	c. review, 
-	d. and quickly reference 
-	the key concepts, tools, and approaches I’ve studied in Business Analysis.
+	<br>A. "gather "
+	<br>B. retain
+	<br>C. review, 
+	<br>D. and quickly reference 
+	<br>the key concepts, tools, and approaches I’ve studied in Business Analysis.
 
 3. 🧑‍🎓 **For Beginners & Career Changers** —  
    A clear and beginner-friendly entry point into the world of analytics — with progressive organization, hands-on notes, and real-world relevance.

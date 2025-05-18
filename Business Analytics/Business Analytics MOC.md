@@ -9,7 +9,9 @@
 
 ## 🧱 Foundations of Business Analysis
 - [What is Business Analysis](Foundations/What%20is%20Business%20Analysis.md)
-- [BA Roles & Career Paths](BA%20Roles%20&%20Career%20Paths)
+- [BA Tasks and Workflow](Foundations/BA%20Tasks%20and%20Workflow.md)
+- [BA Problem Areas](Foundations/BA%20Problem%20Areas.md)
+- [BA Career Paths Progression](Foundations/BA%20Career%20Paths%20Progression.md)
 - [BA vs PM vs PO](BA%20vs%20PM%20vs%20PO)
 - [Types of Requirements](Types%20of%20Requirements)
 - [Stakeholders in BA](Stakeholders%20in%20BA)
@@ -43,7 +45,7 @@
 - [Prototypes](Prototypes)
 
 ### Requirements Description Formats
-- [Business Requirements Document (BRD)](Business%20Requirements%20Document%20(BRD))
+- [Business Requirements Document (BRD)](../Deliverables/Business%20Requirements%20Document%20(BRD).md)
 - [Use Case](Use%20Case)
 - [User Story](User%20Story)
 - [Functional Requirements](Functional%20Requirements)

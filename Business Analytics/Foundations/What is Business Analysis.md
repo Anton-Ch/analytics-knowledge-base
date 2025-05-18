@@ -36,6 +36,7 @@
 7. Understanding of software development
 8. Familiarity with project methodologies (Agile, Waterfall, etc.)  
 9. Project management
+10. Decision-making and problem-solving
 
 
 
